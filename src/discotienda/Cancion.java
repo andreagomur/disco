@@ -16,8 +16,8 @@ public class Cancion {
     private float tamanio;
     private float calidad;
     
-    public Cancion
-
+    public cancion(String nombre, double precio, float duracion, float tamanio, float calidad) {
+    }
     Object getNombre() {
     }
           
